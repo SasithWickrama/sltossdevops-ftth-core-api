@@ -1,0 +1,6 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<NS1:STOCK_CHECK_CP_Input xmlns:NS1="http://xmlns.oracle.com/apps/inv/rest/epic_stock_check/stock_check">
+    <NS1:InputParameters>
+        <NS1:IN_CONTRACTOR_X>CONTRACTOR</NS1:IN_CONTRACTOR_X>
+    </NS1:InputParameters>
+</NS1:STOCK_CHECK_CP_Input>
